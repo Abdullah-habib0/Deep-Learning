@@ -1,0 +1,6 @@
+tensorflow
+gradio
+numpy
+opencv-python-headless
+matplotlib
+pillow
